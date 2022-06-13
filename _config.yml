@@ -2,7 +2,7 @@ title: INF-161 12 REGLAS DE CODD
 author: Rodolfo Mamani Mamani
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  En dos artículos de 1985, Codd publicó reglas o principios que debe usar un sistema de gestión de base de datos para ser considerado “completamente relacional”. Codd quería mantener la integridad del modelo relacional y dejar en claro que colocar una interfaz de usuario relacional por encima de un sistema que utilizaba algún otro modelo como su modelo de datos básico no era suficiente para hacer verdaderamente relacional un DBMS. Él identificó 12 reglas, junto con una regla abarcadora fundamental que llamó Regla Cero. Las reglas proporcionan un conjunto de estándares para juzgar si un DBMS es completamente relacional. Las reglas,
+  En dos artículos de 1985, Codd publicó reglas o principios que debe usar un sistema de gestión de base de datos para ser considerado “completamente relacional”. Codd quería mantener la integridad del modelo relacional y dejar en claro que colocar una interfaz de usuario relacional por encima de un sistema que utilizaba algún otro modelo como su modelo de datos básico no era suficiente para hacer verdaderamente relacional un SGBD. Él identificó 12 reglas, junto con una regla abarcadora fundamental que llamó Regla Cero. Las reglas proporcionan un conjunto de estándares para juzgar si un SGBD es completamente relacional.
 
 permalink: /:slug
 
