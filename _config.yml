@@ -48,4 +48,4 @@ plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
